@@ -1,0 +1,1 @@
+The user-stories.md file contains what each component of system users, from admin, guest, and host and what they would like the application to cater for so as to address their needs.
